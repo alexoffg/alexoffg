@@ -2,7 +2,7 @@
 - 👀 I’m interested in python programming and automation.
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on projects for automating content generation and site handling.
-- 📫 How to reach me - mail me at offgalex@gmail.com
+- 📫 How to reach me - msg me
 
 <!---
 alexoffg/alexoffg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
